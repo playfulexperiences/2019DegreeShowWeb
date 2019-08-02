@@ -1,0 +1,197 @@
+url: https://playfulexperiences.com
+baseurl: ''
+
+# Site settings
+title: Playful Experiences
+email: p.perry@gold.ac.uk
+description: "Independent Games and Playable Experiences is an MA program at Goldsmiths, University of London. This unique course offers critically-engaging themes and technologies, providing skills in immersive storytelling to reflect rapid changes in the games industry."
+
+# Team names, titles and social links
+people:
+- name: Jade Hall-Smith
+  pic: "jade"
+  social:
+    - title: twitter
+      url: https://twitter.com/VariegatedGames
+    - title: linkedin
+      url: https://www.linkedin.com/in/jade-hall-smith
+    - title: globe
+      url: https://variegated-games.com
+  bio: >
+    Part coder, part artist, all nerdy designer, Jade enjoys making games about mental
+    health and disabilities. Her games focus on inclusivity and diversity as a means of
+    inspiring players to empathise with others.
+
+- name: Matthew Deline
+  pic: "matt"
+  social:
+    - title: twitter
+      url: https://twitter.com/mattdeline
+    - title: github
+      url: https://github.com/aradicaldreamer
+    - title: youtube
+      url: https://youtube.com/matthewdeline
+    - title: linkedin
+      url: https://linkedin.com/in/matthewdeline
+    - title: globe
+      url: https://www.matthewdeline.com
+  bio: >
+    Matt does his best thinking while on the road. When he’s not traveling, hiking, or
+    sitting upside down in a roller coaster, he makes experimental board, arcade,
+    narrative, and spatial games that encourage personal growth through interaction and play.
+
+- name: Alex Fletcher
+  pic: "alex"
+  social: []
+  bio: >
+    Alex is an experienced Audio Engineer, who happens to play the trumpet. Not to toot his
+    own horn, but he has now turned these skills to making games as well!
+
+- name: Ben Tandy
+  pic: "ben"
+  social:
+    - title: twitter
+      url: https://twitter.com/frndcldben
+    - title: globe
+      url: https://www.afriendcalledben.com
+  bio: >
+    Ben is an interactive developer who started his career building interactive experiences for museums, galleries and expos. He transitioned over to game design and now seeks to create games that can help to present ideas and information in a captivating manner.<br /><br />
+
+    His main passion is loud, over-stimulating arcade experiences that expect way too much from the player.
+
+
+- name: Billy Karnchanapee
+  pic: "billy"
+  social:
+    - title: twitter
+      url: https://twitter.com/foxcircles
+    - title: globe
+      url: https://mitunayon.github.io/
+    - title: github
+      url: https://github.com/mitunayon
+  bio: >
+    Billy is a musician-turned-programmer-turned-game designer who is interested in way too many things. Right now, he endeavors to create emergent and expressive experiences that he hopes will make the world a better place. He is also interested in understanding player psychology and discussing game design.
+
+
+- name: Doruk Hasdogan
+  pic: "doruk"
+  social:
+    - title: twitter
+      url: https://twitter.com/DorukHasdogan
+    - title: behance
+      url: https://www.behance.net/Malebolge
+    - title: linkedin
+      url: https://www.linkedin.com/in/dhasd
+    - title: youtube
+      url: https://www.youtube.com/channel/UCfGO0ZESaALif0Y12DF21kQ
+  bio: >
+    A Turkish game artist, environment designer, and game developer, Doruk is committed
+    to turning bold ideas into even bolder work in the games space, with a particular
+    focus on level design.
+
+
+- name: Ece Seyrek Hasdoğan
+  pic: "ece"
+  social:
+    - title: twitter
+      url: https://twitter.com/EceSeyrek
+    - title: linkedin
+      url: https://www.linkedin.com/in/ecesey
+    - title: youtube
+      url: https://www.youtube.com/channel/UCNsUSUUsKNzML6Vn3TCT4yw
+    - title: instagram
+      url: https://www.instagram.com/scarce.queen
+    - title: behance
+      url: https://www.behance.net/ScarceQueen
+    - title: globe
+      url: https://artstation.com/eceseyrekhasdogan
+  bio: >
+    Ece hails from Turkey, and works as a graphic designer and artist for games.
+    From UI and logos to concept art and beautifully sculpted faces, Ece’s strong
+    use of color shines everywhere!
+
+
+- name: Julia Makivic
+  pic: "julia"
+  social:
+    - title: twitter
+      url: https://twitter.com/jmakivic
+    - title: instagram
+      url: https://www.instagram.com/juliamakivic/
+    - title: globe
+      url: https://www.cargocollective.com/juliamakivic
+    - title: tumblr
+      url: http://sunnymothman200.tumblr.com/
+  bio: >
+        Julia Makivic is a narrative game designer with a background in computer science and illustration. Her work contains a strong narrative and graphic element and explores themes of desire, obsession and voyeurism in an age where technology and surveillance have become embedded in everyday life. She is interested in using computation as a tool for creating non-linear narratives. As a part of her practice, she has been crafting a speculative world where every second of a given person’s existence is collected and analyzed using organic server farms that grow and mold according to the data that they store.
+
+- name: Phoenix Perry
+  pic: "phoenix"
+  social:
+    - title: twitter
+      url: https://twitter.com/phoenixperry
+    - title: globe
+      url: http://phoenixperry.com
+  bio: >
+    Phoenix Perry creates physical games and user experiences. As an advocate for women
+    in game development, she founded Code Liberation Foundation. In her role at
+    Goldsmiths, University of London, she lecturers on Physical Computing and games and
+    leads an MA in Independent Games and Experience Design.
+
+- name: Raymond Vermeulen
+  pic: "raymond"
+  social:
+    - title: twitter
+      url: https://twitter.com/raymondvrmln
+    - title: globe
+      url: http://rvermeulen.com
+  bio: >
+    Raymond is a games writer and narrative designer currently living in the UK. He holds
+    graduate degrees in writing and game design, following a major in philosophy of
+    science. His work has been prominently featured on both his fridge and his corkboard.
+
+- name: Tommy Graven
+  pic: "tommy"
+  social:
+    - title: globe
+      url: https://www.tommygraven.com
+    - title: twitter
+      url: https://twitter.com/tommy_goodgame
+  bio: >
+    Tommy is a 22 year old game developer working in C# and Unity and passionate about mobile games.
+
+- name: Hugh Kennedy
+  pic: "hughsk"
+  social:
+    - title: twitter
+      url: https://twitter.com/hughskennedy
+    - title: globe
+      url: https://hughsk.io/
+    - title: github
+      url: https://github.com/hughsk
+  bio: >
+    Hugh is a roaming creative developer originally from Sydney, Australia. He's been making websites,
+    interactive experiences and realtime visualisations since 2010, and has spent this year looking at games
+    for activism and social change.
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  # - title: twitter
+  #   url: http://twitter.com/jekyllrb
+  # - title: facebook
+  #   url:
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket
+  #   url: http://bitbucket.org/jekyll
+  # - title: github
+  #   url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
